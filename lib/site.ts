@@ -1,4 +1,3 @@
-```ts
 // Configurações gerais do site.
 export const site = {
   name: 'JL SOLUTIONS',
@@ -11,4 +10,3 @@ export const site = {
 export function whatsappLink(message: string = site.whatsappMessage) {
   return `https://wa.me/${site.whatsappNumber}?text=${encodeURIComponent(message)}`
 }
-```
