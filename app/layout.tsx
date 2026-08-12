@@ -16,7 +16,7 @@ const manrope = Manrope({
 })
 
 export const metadata: Metadata = {
-  title: 'Ranklocal — SEO para empresas locais aparecerem no Google',
+  title: 'JL SOLUTIONS | SEO Local e Google Empresas',
   description:
     'Ajudamos empresas locais a aparecerem no topo do Google e a atrair mais clientes todos os dias. Fale conosco no WhatsApp e receba um diagnóstico gratuito.',
   generator: 'v0.app',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     'mais clientes',
   ],
   openGraph: {
-    title: 'Ranklocal — SEO para empresas locais aparecerem no Google',
+    title: 'JL SOLUTIONS | SEO Local e Google Empresas',
     description:
       'Coloque sua empresa no topo do Google e atraia mais clientes na sua região.',
     type: 'website',
