@@ -18,19 +18,22 @@ const manrope = Manrope({
 export const metadata: Metadata = {
   title: 'JL SOLUTIONS | SEO Local e Google Empresas',
   description:
-    'Ajudamos empresas locais a aparecerem no topo do Google e a atrair mais clientes todos os dias. Fale conosco no WhatsApp e receba um diagnóstico gratuito.',
+    'Gestão de Google Empresas e SEO Local para empresas que querem aumentar sua visibilidade no Google, atrair mais clientes e fortalecer sua presença digital.',
   generator: 'v0.app',
   keywords: [
-    'SEO local',
-    'aparecer no Google',
-    'Google Meu Negócio',
-    'marketing para empresas locais',
-    'mais clientes',
+     'SEO local',
+  'Google Empresas',
+  'Google Business Profile',
+  'gestão de Google Empresas',
+  'otimização Google Maps',
+  'SEO para empresas locais',
+  'marketing local',
+  'atrair mais clientes',
   ],
   openGraph: {
     title: 'JL SOLUTIONS | SEO Local e Google Empresas',
     description:
-      'Coloque sua empresa no topo do Google e atraia mais clientes na sua região.',
+      'Estratégias de SEO Local e gestão de Google Empresas para aumentar a visibilidade da sua empresa no Google e atrair mais clientes.',
     type: 'website',
     locale: 'pt_BR',
   },
