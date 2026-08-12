@@ -19,7 +19,6 @@ export const metadata: Metadata = {
   title: 'JL SOLUTIONS | SEO Local e Google Empresas',
   description:
     'Gestão de Google Empresas e SEO Local para empresas que querem aumentar sua visibilidade no Google, atrair mais clientes e fortalecer sua presença digital.',
-  generator: 'v0.app',
   keywords: [
      'SEO local',
   'Google Empresas',
